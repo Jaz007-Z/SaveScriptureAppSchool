@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Show Verse</string>
+    <string name="instructions">Enter favorite scripture book, chapter, and verse.</string>
+    <string name="Book">Enter Book</string>
+    <string name="Chapter">Enter Chapter</string>
+    <string name="Verse">Enter Verse</string>
+    <string name="button_send">Send</string>
+    <string name="preference_scripture" />
+    <string name="preference_scripture_book" />
+    <string name="preference_scripture_chapter" />
+    <string name="preference_scripture_verse" />
+    <string name="save">Save Scripture</string>
+    <string name="load">Load Scripture</string>
+</resources>
